@@ -1,0 +1,65 @@
+.white-background{
+    background-color: white;
+    height: 200vh;
+    width: 100% ;
+    position: absolute;
+    display: flex;
+    margin:0;
+    padding:0;
+}
+
+.border-box1{
+    border-style: solid;  
+      border-width: 2px;  
+      border-radius: 20px;
+      border-color: #8692f7;
+    width: 85%;
+    position: absolute;
+    box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, 0.5);
+    padding-bottom: 1.5rem;
+    background-color: white;
+    transform: translate(-50%,50%);
+    top:40%;
+    left:50%
+  }
+
+  .forgot-btn{
+    margin-top: 40px;
+    font-size: 15px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    background-color: lightgray;
+    border: none;
+    outline: none;
+    width: 30%;
+    height: 30px;
+  }
+
+  .forgot-email{
+    padding-left: 20px;
+  }
+
+  .forgot-type{
+    border: none;
+    padding-top: 30px;
+    
+  }
+
+.lavender-img{
+    width: 100%;
+    border-radius: 20px;
+    height: 80%;
+}
+
+.top-left {
+    position: absolute;
+    top: 8px;
+    left: 22px;
+  }
+.arrow{
+    position: absolute;
+    top: 100 px;
+    left: 16px;
+}
+

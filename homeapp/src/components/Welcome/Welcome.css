@@ -1,0 +1,54 @@
+.welcome-text{
+    text-align: center;
+    color: #8692f7;
+    font-size: 20px;
+    font-weight: bold;
+    /* margin-top: 22.50px; */
+  
+  }
+
+.welcome-block{
+    top: 20%;
+    position: absolute;
+}
+
+
+.welcome-list{
+    width: 100%;
+    padding: .7rem;
+    padding-left: 58px;
+    height: 40px;
+  }
+
+  .welcome-group{
+    margin: 0 16px;  
+    position: relative;
+  }
+
+  .welcome-group span{
+    position: absolute;
+      left: 8px;
+      top: 56%;
+      transform: translateY(-45%);
+  }
+
+  #welcome-gap{
+    margin-top: 58px;
+    
+  }
+
+  #welcome-gap2{
+    margin-top: 20px;
+  }
+
+  .welcome-btn{
+    margin-top: 40px;
+    font-size: 15px;
+    text-align: center;
+    font-weight: bold;
+    color: black;
+    border: none;
+    outline: none;
+    width: 30%;
+    height: 30px;
+  }

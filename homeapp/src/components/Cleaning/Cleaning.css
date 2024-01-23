@@ -1,0 +1,32 @@
+.form-input-time{
+    width: 100%;
+    padding: .7rem;
+    padding-left: 58px;
+    box-sizing: border-box;
+    border-radius: 30px;
+    outline: none;
+    border: 2px solid #8692f7;
+    transition: background .3s border-color .3s;
+    background-color: white;
+    height: 40px;
+    content: 'time';
+}
+
+
+.Time-title{
+    padding-left: 13px;
+   font-size: 13px;
+   opacity: 0.55;
+   padding-bottom: 2px;
+}
+
+.Time-icon{
+    padding-top: 2px;
+}
+
+.place-text{
+    padding-left: 20px;
+    padding-top: 5px;
+    font-size: 14px;
+}
+

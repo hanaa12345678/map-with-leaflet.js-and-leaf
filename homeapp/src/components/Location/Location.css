@@ -1,0 +1,11 @@
+.govir-name{
+    text-align: center;
+    color: #8692f7;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 2px;
+}
+
+#location-list{
+    margin-top: 3px;
+}
